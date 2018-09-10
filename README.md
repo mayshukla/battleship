@@ -1,9 +1,4 @@
 # Battleship
 A basic CLI battleship game.
 
-## TODO
-- move board class into its own file
-- better randomization
-- multiple ships
-- ships of different sizes
-- multiplayer
+I made this to help myself learn about dynamic memory and pointers in C++.
